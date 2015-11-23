@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+    <group>
+
+        <item
+                android:id="@+id/nav_news"
+                android:checkable="true"
+                android:icon="@mipmap/ic_book_black_18dp"
+                android:checked="true"
+                android:title="新闻快讯"/>
+        <item
+                android:id="@+id/nav_music"
+                android:checkable="true"
+                android:icon="@mipmap/ic_assessment_black_18dp"
+                android:title="音乐鉴赏"/>
+        <item
+                android:id="@+id/nav_pic"
+                android:checkable="true"
+                android:icon="@mipmap/ic_perm_media_black_18dp"
+                android:title="图片欣赏"/>
+        <item
+                android:id="@+id/nav_set"
+                android:icon="@mipmap/ic_settings_red_400_18dp"
+                android:checkable="false"
+                android:title="视频观看(维护中..)"/>
+    </group>
+    <!--<item android:title="功能-菜单">-->
+    <!--<menu>-->
+    <!--</menu>-->
+    <!--</item>-->
+</menu>

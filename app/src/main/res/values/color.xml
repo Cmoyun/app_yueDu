@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="grav">#61000000</color>
+    <color name="light_green">#2a8655</color>
+
+
+    <color name="green_88">#019688</color>
+
+    <!--GOOGLE COLOR  558de9-->
+    <color name="google_blue">#4285F4</color>
+    <color name="google_red">#EA4335</color>
+    <color name="google_yellow">#FBBC05</color>
+    <color name="google_green">#34A853</color>
+
+    <color name="purple_56">#5F4D8B</color>
+    <color name="alpha_80_black">#9c000000</color>
+</resources>

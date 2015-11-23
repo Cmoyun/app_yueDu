@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="nav_weather_small2_fs">10dp</dimen>
+    <dimen name="nav_weather_small_fs">16dp</dimen>
+    <dimen name="nav_weather_df_fs">24dp</dimen>
+    <dimen name="nav_weather_bigger_fs">45dp</dimen>
+
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+
+    <dimen name="news_small_title_fs">16dp</dimen>
+    <dimen name="news_df_title_fs">16dp</dimen>
+    <dimen name="news_bigger_title_fs">16dp</dimen>
+</resources>
